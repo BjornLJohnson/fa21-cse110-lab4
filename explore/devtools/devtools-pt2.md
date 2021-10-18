@@ -1,0 +1,2 @@
+1. The bug was that the data types of num1 and num2 were strings, so when they weere added together, they were simply concatenated instead of numerically added
+2. To fix this, I would just cast the inputs from strings to numbers before adding them together
